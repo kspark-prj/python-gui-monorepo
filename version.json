@@ -1,7 +1,8 @@
 {
     "stg": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "download_url": "https://github.com/kspark-prj/python-gui-monorepo/releases/download/stg%2Fv1.0.0/SpringTestGenerator_Setup.exe",
-        "file_name": "SpringTestGenerator_Setup.exe"
+        "file_name": "SpringTestGenerator_Setup.exe",
+        "sha256": "ac358d7286c15fa022911086ac4780a59540b2185a2169029c3da1cdd6dc14f2"
     }
 }
