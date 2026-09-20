@@ -1,20 +1,20 @@
 {
     "stg": {
-        "version": "1.1.0",
+        "version": "1.1.1",
         "download_url": "https://github.com/kspark-prj/python-gui-monorepo/releases/download/stg%2Fv1.0.0/SpringTestGenerator_Setup.exe",
         "file_name": "SpringTestGenerator_Setup.exe",
-        "sha256": "08c4220cd8f919350a66bb6ca4dc04b9a10cdbfa27bb4658aa60abeb150d3e6a"
+        "sha256": "283b501a5896e2e377aae97fe236e7da8b933404215cdc0a5709f94c8b0ad0cd"
     },
 	"mg" : {
-		"version": "1.0.0",
+		"version": "1.1.1",
 		"download_url": "https://github.com/kspark-prj/python-gui-monorepo/releases/download/mg%2Fv1.0.0/Migrator_Setup.exe",
 		"file_name": "Migrator_Setup.exe",
-		"sha256": "553e37df6df43f3a7c2562771f630b5975a86cdf1fa476f6362553255c2c210c"
+		"sha256": "6121a5e901d609968db214ceb6dfb63ed5533db192cfdd46a455855014843abc"
 	},
 	"vf": {
-		"version": "1.1.0",
+		"version": "1.1.1",
 		"download_url": "https://github.com/kspark-prj/python-gui-monorepo/releases/download/vf%2Fv1.0.0/VineflowerDecompiler_Setup.exe",
 		"file_name": "VineflowerDecompiler_Setup.exe",
-		"sha256": "afdecb06663e6e52b1cd383e1449302ab1f4731e6a945f273d737445c1bd8f25"
+		"sha256": "688713994216c5f216de34e09a7ca0282ecd4dfa07e1c8e5152cd2b0d2f0b5ea"
 	}
 }
