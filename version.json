@@ -16,5 +16,12 @@
 		"download_url": "https://github.com/kspark-prj/python-gui-monorepo/releases/download/vf%2Fv1.0.0/VineflowerDecompiler_Setup.exe",
 		"file_name": "VineflowerDecompiler_Setup.exe",
 		"sha256": "2fbec884f835c9e999a28a87280224c348ae8bae693b0f1d495ca2891d9e2d33"
+	},
+	"kdb": {
+		"version": "1.1.1",
+		"download_url": "https://github.com/kspark-prj/python-gui-monorepo/releases/download/kdb%2Fv1.0.0/ksqlDBClient_Setup.exe",
+		"file_name": "ksqlDBClient_Setup",
+		"sha256": "89a3cc5bc9ae34cc3bcd0043c9866b5b2352683679399430f8048214a4b93f29"
 	}
 }
+
