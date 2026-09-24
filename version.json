@@ -24,7 +24,7 @@
 		"sha256": "296cff066a1d19c8e3fd08c0dea7649080660f59fea7db86f41f3f65bcc1a20b"
 	},
 	"kafka": {
-		"version": "1.1.0",
+		"version": "1.0.0",
 		"download_url": "https://github.com/kspark-prj/python-gui-monorepo/releases/download/kafka%2Fv1.0.0/kafka-tool_Setup.exe",
 		"file_name": "kafka-tool_Setup",
 		"sha256": "68072022fa418bfd1984321d2136034b79ced47f596373b0993d7b7865ad8dc5"
