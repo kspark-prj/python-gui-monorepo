@@ -12,10 +12,10 @@
 		"sha256": "6121a5e901d609968db214ceb6dfb63ed5533db192cfdd46a455855014843abc"
 	},
 	"vf": {
-		"version": "1.1.1",
+		"version": "1.1.2",
 		"download_url": "https://github.com/kspark-prj/python-gui-monorepo/releases/download/vf%2Fv1.0.0/VineflowerDecompiler_Setup.exe",
 		"file_name": "VineflowerDecompiler_Setup.exe",
-		"sha256": "2fbec884f835c9e999a28a87280224c348ae8bae693b0f1d495ca2891d9e2d33"
+		"sha256": "a8c9b6943bc020355552fa0f77fda10a4862105b725e495a61ab8ae2790d7979"
 	},
 	"kdb": {
 		"version": "1.1.1",
